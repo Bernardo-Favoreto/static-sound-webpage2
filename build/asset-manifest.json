@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.55075417.chunk.css",
+    "main.js": "/static/js/main.c76461fc.chunk.js",
+    "main.js.map": "/static/js/main.c76461fc.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.730ad540.js",
+    "runtime-main.js.map": "/static/js/runtime-main.730ad540.js.map",
+    "static/css/2.9131a3d6.chunk.css": "/static/css/2.9131a3d6.chunk.css",
+    "static/js/2.b2cf57d2.chunk.js": "/static/js/2.b2cf57d2.chunk.js",
+    "static/js/2.b2cf57d2.chunk.js.map": "/static/js/2.b2cf57d2.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b0757ba1f4a539419d233e639babd949.js": "/precache-manifest.b0757ba1f4a539419d233e639babd949.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.9131a3d6.chunk.css.map": "/static/css/2.9131a3d6.chunk.css.map",
+    "static/css/main.55075417.chunk.css.map": "/static/css/main.55075417.chunk.css.map",
+    "static/js/2.b2cf57d2.chunk.js.LICENSE.txt": "/static/js/2.b2cf57d2.chunk.js.LICENSE.txt",
+    "static/media/bg2.jpg": "/static/media/bg2.ca8c35c7.jpg",
+    "static/media/logo-angelika-favorreto-pb.png": "/static/media/logo-angelika-favorreto-pb.c7b6deb5.png",
+    "static/media/meditacao2.mp3": "/static/media/meditacao2.dc1c8289.mp3",
+    "static/media/now-ui-kit.css": "/static/media/nucleo-outline.8ebec31f.woff2",
+    "static/media/transparente-cropped.png": "/static/media/transparente-cropped.5a0b22e4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.730ad540.js",
+    "static/css/2.9131a3d6.chunk.css",
+    "static/js/2.b2cf57d2.chunk.js",
+    "static/css/main.55075417.chunk.css",
+    "static/js/main.c76461fc.chunk.js"
+  ]
+}
